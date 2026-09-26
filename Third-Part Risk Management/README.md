@@ -4,6 +4,8 @@
 
 # Third-Party Risk Management — Payment Processor Due Diligence
 
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/361d9b59-978b-45e4-b80b-3c506dcdb97f" />
+
 ![Framework](https://img.shields.io/badge/frameworks-PCI%20DSS%20%7C%20SOC%202-1f4e78)
 ![Status](https://img.shields.io/badge/status-in%20progress-dbab09)
 ![Sector](https://img.shields.io/badge/sector-financial%20services-333333)
