@@ -18,14 +18,6 @@ FinSecure Banking is integrating a third-party payment processor with direct acc
 
 This repo is a structured, portfolio-style write-up of that assessment: a realistic (fictional) case study demonstrating a practical TPRM workflow for a regulated financial institution.
 
-## What's inside
-
-| Page | Contents |
-|---|---|
-| [📇 Vendor Profile](01-vendor-profile.md) | Vendor intake record — service, criticality, attestation status, regulatory scope |
-| [⚠️ Risk Assessment](02-risk-assessment.md) | 4 scored risks (likelihood × impact) with rationale for each rating |
-| [🛡️ Control Verification](03-control-verification.md) | 6 controls verified against PCI DSS / SOC 2 evidence, with effectiveness ratings |
-| [🐞 Issues Log](04-issues-log.md) | 3 findings raised from the assessment, with severity, ownership, and due dates |
 
 ## How to read this
 
