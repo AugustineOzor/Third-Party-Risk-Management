@@ -1,6 +1,5 @@
 <div align="center">
 
-![FinSecure TPRM Banner](banner.png)
 
 # Third-Party Risk Management — Payment Processor Due Diligence
 
