@@ -39,8 +39,3 @@ Each page links to the next via the navigation bar at the bottom, so you can wal
 
 ---
 
-<div align="center">
-
-**[Start with the Vendor Profile →](01-vendor-profile.md)**
-
-</div>
